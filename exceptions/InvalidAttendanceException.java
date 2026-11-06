@@ -1,3 +1,4 @@
+package exceptions;
 /**
  * Exception thrown when an attendance operation violates business rules.
  */

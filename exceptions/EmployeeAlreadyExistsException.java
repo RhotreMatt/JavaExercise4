@@ -1,3 +1,4 @@
+package exceptions;
 /**
  * Exception thrown when attempting to register an employee
  * whose ID already exists in the system.

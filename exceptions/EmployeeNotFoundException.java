@@ -1,3 +1,4 @@
+package exceptions;
 /**
  * Exception thrown when an employee ID cannot be found in the system.
  */

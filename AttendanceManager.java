@@ -3,6 +3,10 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
+import exceptions.EmployeeAlreadyExistsException;
+import exceptions.EmployeeNotFoundException;
+import exceptions.InvalidAttendanceException;
+
 /**
  * Manages employee registrations and attendance record tracking.
  */

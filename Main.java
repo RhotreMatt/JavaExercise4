@@ -1,6 +1,10 @@
 import java.time.format.DateTimeFormatter;
 import java.util.List;
 
+import exceptions.EmployeeAlreadyExistsException;
+import exceptions.EmployeeNotFoundException;
+import exceptions.InvalidAttendanceException;
+
 /**
  * Main application entry point to demonstrate system requirements and test
  * cases.
